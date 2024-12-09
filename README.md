@@ -23,8 +23,8 @@ Uses naive methods to detect observable plagiarism in text files.
 
 **4.**   Change the `database` and `target_folder` variables with the actual location of them.
 
-**5.**   Compile `run.cpp` in C++11 (or above), with the command `g++ run.cpp -std=c++11`.
+**5.**   Compile `plagiaMain.cpp`.
 
-**6.**   Run the generated executable with the command `./a.out` *(in Linux environment).*
+**6.**   Run the generated executable with the command `./a.out 2` *(in Linux environment).*
 
 
