@@ -12,3 +12,5 @@ class StringOperations{
     else 
         return false;
     }
+
+};
